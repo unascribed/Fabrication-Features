@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/unascribed/Fabrication/discussions/new?category=questions
     about: Questions belong as Discussions in the main Fabrication repo.
   - name: Bug Reports
-    url: https://github.com/unascribed/Fabrication/issues/new
+    url: https://github.com/unascribed/Fabrication/issues/new/choose
     about: Bug reports belong as Issues in the main Fabrication repo.
