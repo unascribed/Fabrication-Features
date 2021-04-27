@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions
+    url: https://github.com/unascribed/Fabrication/discussions/new?category=questions
+    about: Questions belong as Discussions in the main Fabrication repo.
+  - name: Bug Reports
+    url: https://github.com/unascribed/Fabrication/issues/new
+    about: Bug reports belong as Issues in the main Fabrication repo.
