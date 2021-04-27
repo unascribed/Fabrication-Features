@@ -1,7 +1,7 @@
 # Fabrication-Features
 Feature requests for Fabrication, to keep the issue tracker on Fabrication for just bugs and make managing it easier.
 
-## Catagories
+## Categories
 * **Fixes**: Uncontroversial changes that don't break any vanilla contraptions
 * **Utility**: Optional out-of-the-way features that are useful in some circumstances and have low-conflict patches
 * **Tweaks**: Modifications to vanilla mechanics that "make sense"
